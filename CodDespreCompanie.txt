@@ -1,0 +1,13 @@
+<h1 align=center><i>Despre companie</i></h1> 
+    <img src=image/image3.png width=260 height=300 align=right>
+    <p></p>
+    <p>Compania Future Industries te asigură cu cea mai nouă informație despre produsele software de cea mai înaltă calitate, de cele mai vestite companii. Puteți să accesați categoria <a href="05.ProduseSoftware.html">Produse Software</a> sau vă puteți informa despre orice produs folosind datele de contact, din meniul  <a href="04.%20Contacte.html">Contacte</a>.</p>
+    
+    <p>Dacă aveți mai multe întrebări sau obiecții, compania vă așteaptă în filialele sale</p>
+    
+    <p>Mai bine de 15 ani de experienă ne-au determinat să devenim lideri pe piața Republicii Moldova, în domeniul informării clienților despre cele mai calitative produse software.</p>
+    <p>Clienții primesc produse de calitate la prețuri competitive, consultanță calificată și servicii logistice operative.</p>
+    <p>Pentru comoditatea clienților săi, compania pune la dispoziție o rețea de magazine, în toate sectoarele or. Chișinău și distribuie produsele sale în toate localitățile Republicii Moldova.</p>
+    <p>Echipa Future Industries formată din 180 de angajați, energici, pragmatici, focusați să raspundă cerințelor clienților și partenerilor săi. A face parte din echipa noastră, este mai mult decât un job, este un stil de viață care implică multă dezvoltare personală și profesională.</p>
+    <p>Mii de clienți mulțumiți revin de fiecare dată la noi.</p>
+    <img src=image/name1.jpg>

@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Future Industries</title>
+        <link rel="shortcut icon" href="logo_questions.jpg">
+        <meta charset="UTF-8">
+        <style>
+            body {
+                background: url(fon.jpg);
+                margin-top: 5%;
+            }
+        </style>
+    </head>
+    <body>
+        
+<!-- Formez Bara de meniu în poziție orizontală -->      
+        <link rel=stylesheet href="NavigationBar.css" type="text/css">
+        <ul>
+            <li><img src=fi-logo.png width="60" height="60"></li>
+            <li><a href="01.PaginaPrincipală.html">Pagina Principală</a></li>
+            <li><a href="02.DespreCompanie.html">Despre Companie</a></li>
+            <li><a href="03.Servicii.html">Servicii</a></li>
+            <li><a href="04.Contacte.html">Contacte</a></li>
+            <li class=dropdown><a href="#">Produse Software</a>
+                    <div class="dropdown-content">
+                        <a href="05.1.PC_Notebook.html">&#10148PC/Notebook</a>
+                        <a href="05.2.Android.html">&#10148Android</a></div>
+            </li>
+            <li><a href="06.Carte_Oaspe%C8%9Bi.html">Cartea pentru Oaspeți</a></li>
+            <li><a href="07.Link-uriUtile.html">Link-uri utile</a></li>
+        </ul>
+<!-- Bara de meniu incheiată --> 
+
+        
+        
+<!-- Creare cod pentru cartea pentru oaspeți -->
+    <!-- Deschidere cod CSS -->
+        <link rel="stylesheet" href="Carte_OaspetiCSS.css" type="text/css">
+        
+    <h3>Carte pentru oaspeți:</h3>
+    <p>Dacă aveți întrebări sau obiecții, vă rugăm să vă adresați, iar noi vă vom răspunde cât mai curând!</p>
+        
+<div class="container">
+  <form action="/action_page.php">
+        <!-- Prenume -->
+    <label for="fname">Prenume:</label>
+    <input type="text" id="fname" name="firstname" placeholder="Prenumele dv-stră:">
+        <!-- Țara -->
+    <label for="country">Țara de origine:</label>
+    <select id="country" name="country">
+      <option value="MD">Moldova</option>
+      <option value="RO">România</option>
+    </select>
+        <!-- Poșta electronică -->
+    <label for="lname">Poșta electronică:</label>
+    <input type="mail" id="lname" name="lastname" placeholder="E-mail-ul dv-stră:">
+        <!-- Mesajul pe care il expediază -->
+    <label for="subject">Mesaj:</label>
+    <textarea id="subject" name="subject" placeholder="Introduceți mesajul dv-stră..." style="height:200px"></textarea>
+        <!-- Expediere mesaj - Tasta -->
+    <input type="submit" value="Expediați mesaj!">
+  </form>
+</div>
+        
+<!-- Terminare cod pentru cartea pentru oaspeți -->
+        
+        
+</body>
+</html>

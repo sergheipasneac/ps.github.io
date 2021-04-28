@@ -1,0 +1,7 @@
+    <table border=2 bgcolor=B2f8f2><th width=1500 height=75><img src=reclama/01.jpg width=240 height=100 align=left><img src=reclama/02.png align=right><p><br></p><p>Compania Future Industries vă asigură cu informații despre produse software pe orice gust</p></th></table>
+    <p></p>
+
+
+
+
+Compania Future Industries vă asigură cu informații despre produse software pe orice gust
